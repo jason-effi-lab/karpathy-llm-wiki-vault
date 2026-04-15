@@ -131,3 +131,4 @@ A:
 - [[Zero_Shot_Prompting]] — 零样本提示
 - [[Few_Shot_Prompting]] — 少样本提示
 - [[摘要-google-prompt-engineering-whitepaper]] — Google 白皮书来源
+- [[摘要-prompt-engineering-full-course-techwithtim]] — Tech With Tim：现代模型已内置 CoT
