@@ -13,6 +13,7 @@
 - [[摘要-anthropic-prompting-best-practices]] — Anthropic Claude 提示最佳实践（官方）
 - [[摘要-google-prompt-engineering-whitepaper]] — Google Prompt Engineering 白皮书（官方）
 - [[摘要-5c-prompt-contracts-paper]] — 5C Prompt Contracts 研究论文
+- [[摘要-prompt-engineering-full-course-techwithtim]] — Tech With Tim 提示工程完整课程转录（YouTube，2026-03-11）
 
 ---
 
@@ -25,6 +26,10 @@
 ### 模型/产品
 - [[Gemini]] — Google 的大型语言模型家族
 - [[Claude]] — Anthropic 的大型语言模型家族
+- [[ChatGPT]] — OpenAI 的对话式 AI 产品，全球最广泛使用的 LLM 界面
+
+### 内容创作者
+- [[TechWithTim]] — 专注 Python/AI 的 YouTube 教育创作者
 
 ---
 
@@ -47,6 +52,10 @@
 - [[CRAFT_Framework]] — CRAFT 框架：Context + Role + Action + Format + Tone
 - [[POWER_Framework]] — POWER 框架：Purpose + Output + Working + Examples + Refinement
 
+### 输出控制技术
+- [[Structured_Output]] — 结构化输出：要求模型以 JSON/表格等格式返回可解析结果
+- [[Iterative_Refinement]] — 迭代细化：多轮对话中逐步修正提示
+
 ### 高级技术
 - [[ReAct]] — ReAct：推理与行动结合的代理范式
 - [[Tree_of_Thoughts]] — 思维树：同时探索多条推理路径
@@ -62,4 +71,4 @@
 
 ---
 
-*最后更新：2026-04-12*
+*最后更新：2026-04-15*

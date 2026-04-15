@@ -133,3 +133,20 @@
 - 知识冲突：1 个（概念性标注）
 
 ---
+
+## [2026-04-15] ingest | 摄入 Prompt Engineering Full Course 转录（Tech With Tim）
+
+- **来源**: `raw/03-transcripts/Prompt Engineering Full Course.md`（YouTube 转录，2026-03-11）
+- **变更**:
+  - 新增 [[摘要-prompt-engineering-full-course-techwithtim]]（sources）
+  - 新增 [[Structured_Output]]（concepts）— 结构化 JSON/表格输出技术
+  - 新增 [[Iterative_Refinement]]（concepts）— 多轮对话迭代细化
+  - 新增 [[ChatGPT]]（entities）— 修复原有死链
+  - 新增 [[TechWithTim]]（entities）— 内容创作者
+  - 更新 [[Few_Shot_Prompting]] — 新增来源引用
+  - 更新 [[Chain_of_Thought]] — 新增来源引用
+  - 更新 [[index.md]] — 新增 Sources、Entities、Concepts 条目
+- **冲突**: 无
+- **归档**: `raw/03-transcripts/Prompt Engineering Full Course.md` → `raw/09-archive/`
+
+---

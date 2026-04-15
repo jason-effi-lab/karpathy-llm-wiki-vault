@@ -164,5 +164,7 @@ Google 和 Anthropic 都指出：
 - [[Prompt_Engineering]] — 提示工程总览
 - [[Zero_Shot_Prompting]] — 零样本提示
 - [[Chain_of_Thought]] — 可与 CoT 结合使用
+- [[Structured_Output]] — 结构化输出常结合少样本使用
 - [[摘要-anthropic-prompting-best-practices]] — Anthropic 最佳实践
 - [[摘要-google-prompt-engineering-whitepaper]] — Google 白皮书
+- [[摘要-prompt-engineering-full-course-techwithtim]] — Tech With Tim 实战演示
